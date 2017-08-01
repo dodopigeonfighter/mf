@@ -1,3 +1,5 @@
+This is just a copy of https://github.com/raghur/mermaid-filter with ^ removed from ^7.0.0 in the package.json to make arrows work.
+
 Sequence and Graph diagrams in your markdown files!
 =========================
 
